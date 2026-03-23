@@ -1,0 +1,61 @@
+---
+title: "首页"
+---
+
+# 关于我
+
+::: hero-section
+::: columns
+::: {.column width="65%"}
+
+# 您的姓名
+
+::: subtitle
+中山大学 | 三年级本科生
+:::
+
+------------------------------------------------------------------------
+
+我是[您的姓名]，中山大学[您的专业]专业大三学生。我对[研究兴趣领域，如：机器学习、计算机视觉、数据挖掘]有浓厚兴趣，渴望在研究生阶段深入研究[具体方向]。
+
+我的目标是通过严谨的学术训练和创新的研究工作，为[相关领域]的发展做出贡献。
+
+::: btn-primary-custom
+<i class="fas fa-download"></i> 下载简历
+:::
+
+:::
+
+::: {.column width="35%" style="text-align: center;"}
+
+::: profile-placeholder
+<i class="fas fa-user"></i>
+:::
+
+:::
+:::
+:::
+
+## 研究兴趣
+
+::: skills-grid
+
+::: skill-category
+### [研究方向1]
+::: skill-list
+<span class="skill-tag">机器学习</span>
+<span class="skill-tag">深度学习</span>
+<span class="skill-tag">计算机视觉</span>
+:::
+:::
+
+::: skill-category
+### [研究方向2]
+::: skill-list
+<span class="skill-tag">数据挖掘</span>
+<span class="skill-tag">自然语言处理</span>
+<span class="skill-tag">强化学习</span>
+:::
+:::
+
+:::

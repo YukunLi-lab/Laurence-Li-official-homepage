@@ -1,0 +1,154 @@
+---
+title: "项目展示"
+anchor: "projects"
+---
+
+# 项目展示
+
+::: columns
+
+::: {.column width="50%"}
+
+::: card
+::: card-header-custom
+::: card-title
+**[项目名称1]**
+::: card-subtitle
+课程：[课程名称] | 2024年
+:::
+:::
+
+[项目简介，2-3句话描述项目目标和主要成果。]
+
+**主要贡献**：
+
+- [贡献1，带量化指标]
+- [贡献2]
+- [贡献3]
+
+**技术栈**：
+
+::: project-tech
+<span>Python</span>
+<span>PyTorch</span>
+<span>OpenCV</span>
+<span>NumPy</span>
+:::
+
+::: project-links
+[GitHub](https://github.com/您的用户名/项目名) | [Demo链接]
+:::
+
+:::
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: card
+::: card-header-custom
+::: card-title
+**[项目名称2]**
+::: card-subtitle
+课程：[课程名称] | 2024年
+:::
+:::
+
+[项目简介，描述项目目标和主要成果。]
+
+**主要贡献**：
+
+- [贡献1]
+- [贡献2，带用户量/性能指标]
+
+**技术栈**：
+
+::: project-tech
+<span>React</span>
+<span>Node.js</span>
+<span>MongoDB</span>
+<span>REST API</span>
+:::
+
+::: project-links
+[GitHub](https://github.com/您的用户名/项目名)
+:::
+
+:::
+:::
+
+:::
+
+::: columns
+
+::: {.column width="50%"}
+
+::: card
+::: card-header-custom
+::: card-title
+**[项目名称3]**
+::: card-subtitle
+个人项目 | 2023年
+:::
+:::
+
+[项目简介，描述项目目标和成果。]
+
+**主要贡献**：
+
+- [贡献1]
+- [贡献2]
+
+**技术栈**：
+
+::: project-tech
+<span>Python</span>
+<span>TensorFlow</span>
+<span>Flask</span>
+<span>Docker</span>
+:::
+
+::: project-links
+[GitHub](https://github.com/您的用户名/项目名)
+:::
+
+:::
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: card
+::: card-header-custom
+::: card-title
+**[项目名称4]**
+::: card-subtitle
+竞赛项目 | 2023年
+:::
+:::
+
+[项目简介，描述项目背景和成果。]
+
+**主要贡献**：
+
+- [贡献1]
+- [贡献2，获[具体奖项]]
+
+**技术栈**：
+
+::: project-tech
+<span>C++</span>
+<span>OpenGL</span>
+<span>Git</span>
+:::
+
+::: project-links
+[GitHub](https://github.com/您的用户名/项目名)
+:::
+
+:::
+:::
+
+:::

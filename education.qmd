@@ -1,0 +1,77 @@
+---
+title: "教育背景"
+anchor: "education"
+---
+
+# 教育背景
+
+::: timeline
+
+::: timeline-item
+## 中山大学（Sun Yat-sen University）
+**广州，中国**
+
+*理学学士 - [您的专业]* | 2022 - 2026（预计）
+
+- **GPA**：[您的GPA，如3.8/4.0]（专业GPA：[专业GPA]）
+- **核心课程**：数据结构、算法设计与分析、机器学习、深度学习、概率论与数理统计、线性代数、数据库系统
+- **学术荣誉**：[具体荣誉，如"2023-2024学年一等奖学金"、[排名前5%]]
+:::
+
+::: timeline-item
+## [高中名称]
+**[城市，省份]**
+
+*高中毕业* | 2019 - 2022
+
+- [高中期间的主要成就或荣誉]
+- [如：全国中学生信息学奥林匹克联赛二等奖]
+:::
+
+:::
+
+## 核心课程
+
+::: skills-grid
+
+::: skill-category
+### 计算机基础
+::: skill-list
+<span class="skill-tag">数据结构</span>
+<span class="skill-tag">算法设计</span>
+<span class="skill-tag">操作系统</span>
+<span class="skill-tag">计算机网络</span>
+:::
+:::
+
+::: skill-category
+### 数学与统计
+::: skill-list
+<span class="skill-tag">线性代数</span>
+<span class="skill-tag">概率论</span>
+<span class="skill-tag">数理统计</span>
+<span class="skill-tag">数值分析</span>
+:::
+:::
+
+::: skill-category
+### 机器学习与AI
+::: skill-list
+<span class="skill-tag">机器学习</span>
+<span class="skill-tag">深度学习</span>
+<span class="skill-tag">计算机视觉</span>
+<span class="skill-tag">自然语言处理</span>
+:::
+:::
+
+::: skill-category
+### 研究工具
+::: skill-list
+<span class="skill-tag">Python</span>
+<span class="skill-tag">R</span>
+<span class="skill-tag">MATLAB</span>
+<span class="skill-tag">LaTeX</span>
+:::
+:::
+
+:::

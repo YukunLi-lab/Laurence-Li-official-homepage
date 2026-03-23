@@ -1,0 +1,60 @@
+---
+title: "联系方式"
+anchor: "contact"
+---
+
+# 联系方式
+
+我目前正在寻找2026年秋季入学的研究生项目机会。如果您对我的研究背景感兴趣，或有任何问题，欢迎通过以下方式联系我。
+
+::: contact-links
+
+<a href="mailto:your.email@student.sysu.edu.cn" class="contact-link">
+<i class="fas fa-envelope"></i>
+::: contact-link-text
+::: contact-link-label
+邮箱
+::: contact-link-value
+your.email@student.sysu.edu.cn
+:::
+:::
+</a>
+
+<a href="https://github.com/您的GitHub用户名" class="contact-link" target="_blank">
+<i class="fab fa-github"></i>
+::: contact-link-text
+::: contact-link-label
+GitHub
+::: contact-link-value
+github.com/您的GitHub用户名
+:::
+:::
+</a>
+
+<a href="https://linkedin.com/in/您的LinkedIn用户名" class="contact-link" target="_blank">
+<i class="fab fa-linkedin"></i>
+::: contact-link-text
+::: contact-link-label
+LinkedIn
+::: contact-link-value
+linkedin.com/in/您的LinkedIn用户名
+:::
+:::
+</a>
+
+<a href="assets/cv.pdf" class="contact-link" download>
+<i class="fas fa-file-pdf"></i>
+::: contact-link-text
+::: contact-link-label
+下载简历
+::: contact-link-value
+最后更新：2025年3月
+:::
+:::
+</a>
+
+:::
+
+---
+
+*欢迎来信交流，期待与您探讨学术与合作机会！*

@@ -1,0 +1,96 @@
+---
+title: "荣誉奖项"
+anchor: "honors"
+---
+
+# 荣誉奖项
+
+## 学术奖学金
+
+::: award-item
+::: award-icon
+<i class="fas fa-trophy"></i>
+:::
+::: award-content
+::: award-title
+一等奖学金，中山大学
+::: award-description
+2023-2024学年 | 年级前5%
+:::
+:::
+
+::: award-item
+::: award-icon
+<i class="fas fa-trophy"></i>
+:::
+::: award-content
+::: award-title
+二等奖学金，中山大学
+::: award-description
+2022-2023学年 | 年级前10%
+:::
+:::
+
+::: award-item
+::: award-icon
+<i class="fas fa-trophy"></i>
+:::
+::: award-content
+::: award-title
+[其他奖学金名称]
+::: award-description
+[颁发机构] | [年份]
+:::
+:::
+
+## 学科竞赛
+
+::: award-item
+::: award-icon
+<i class="fas fa-medal"></i>
+:::
+::: award-content
+::: award-title
+[竞赛名称]
+::: award-description
+[奖项，如：一等奖/ Bronze Medal] | [年份]
+:::
+:::
+
+::: award-item
+::: award-icon
+<i class="fas fa-medal"></i>
+:::
+::: award-content
+::: award-title
+[竞赛名称]
+::: award-description
+[奖项] | [年份]
+:::
+:::
+
+## 其他荣誉
+
+::: award-item
+::: award-icon
+<i class="fas fa-star"></i>
+:::
+::: award-content
+::: award-title
+[荣誉称号]
+::: award-description
+[颁发机构] | [年份]
+:::
+:::
+
+::: award-item
+::: award-icon
+<i class="fas fa-star"></i>
+:::
+::: award-content
+::: award-title
+[其他荣誉或认证]
+::: award-description
+[机构] | [年份]
+:::
+:::

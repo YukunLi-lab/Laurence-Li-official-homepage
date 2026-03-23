@@ -1,0 +1,112 @@
+---
+title: "技能"
+anchor: "skills"
+---
+
+# 技能
+
+## 编程语言
+
+::: skills-grid
+
+::: skill-category
+### 熟练掌握
+::: skill-list
+<span class="skill-tag">Python</span>
+<span class="skill-tag">C/C++</span>
+<span class="skill-tag">R</span>
+:::
+:::
+
+::: skill-category
+### 进阶使用
+::: skill-list
+<span class="skill-tag">Java</span>
+<span class="skill-tag">JavaScript</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">HTML/CSS</span>
+:::
+:::
+
+:::
+
+## 机器学习与深度学习框架
+
+::: skill-list
+<span class="skill-tag">PyTorch</span>
+<span class="skill-tag">TensorFlow</span>
+<span class="skill-tag">scikit-learn</span>
+<span class="skill-tag">Keras</span>
+<span class="skill-tag">Hugging Face</span>
+<span class="skill-tag">OpenCV</span>
+<span class="skill-tag">Pandas</span>
+<span class="skill-tag">NumPy</span>
+<span class="skill-tag">Matplotlib</span>
+:::
+
+## 研究工具
+
+::: skills-grid
+
+::: skill-category
+### 开发环境
+::: skill-list
+<span class="skill-tag">Linux/Shell</span>
+<span class="skill-tag">Git/GitHub</span>
+<span class="skill-tag">Docker</span>
+<span class="skill-tag">Jupyter Notebook</span>
+<span class="skill-tag">VS Code</span>
+:::
+:::
+
+::: skill-category
+### 科研工具
+::: skill-list
+<span class="skill-tag">LaTeX (Overleaf)</span>
+<span class="skill-tag">EndNote</span>
+<span class="skill-tag">Zotero</span>
+<span class="skill-tag">MATLAB</span>
+<span class="skill-tag">SPSS</span>
+:::
+:::
+
+::: skill-category
+### 云计算平台
+::: skill-list
+<span class="skill-tag">Google Cloud</span>
+<span class="skill-tag">阿里云</span>
+<span class="skill-tag">GPU服务器</span>
+:::
+:::
+
+:::
+
+## 语言能力
+
+::: skills-grid
+
+::: skill-category
+### 中文
+::: skill-list
+<span class="skill-tag">母语</span>
+:::
+:::
+
+::: skill-category
+### 英语
+::: skill-list
+<span class="skill-tag">CET-6: [分数，如550+]</span>
+<span class="skill-tag">雅思：[分数]</span>
+<span class="skill-tag">GRE：[分数]</span>
+:::
+:::
+
+::: skill-category
+### 其他
+::: skill-list
+<span class="skill-tag">日语 JLPT N3</span>
+<span class="skill-tag">[其他语言能力]</span>
+:::
+:::
+
+:::
