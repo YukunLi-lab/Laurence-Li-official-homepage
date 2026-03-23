@@ -3,14 +3,14 @@ project:
   output-dir: _site
 
 website:
-  title: "您的姓名 | 学术主页"
+  title: "Laurence Li | 学术主页"
   description: "个人学术网站 - 展示学术背景、科研经历和成果"
   page-footer: |
-    <p>&copy; 2024 您的姓名. All rights reserved.</p>
-    <p>最后更新：2024年3月</p>
+    <p>&copy; 2025 Laurence Li. All rights reserved.</p>
+    <p>最后更新：2025年3月</p>
 
   navbar:
-    background: "#2C3E50"
+    background: "#4A90A4"
     foreground: "#ffffff"
     logo: "images/profile/headshot-placeholder.png"
     right:
@@ -36,7 +36,7 @@ website:
     search: true
     tools:
       - icon: github
-        href: "https://github.com/您的GitHub用户名"
+        href: "https://github.com/YukunLi-lab"
         text: "GitHub"
 
 format:
@@ -59,6 +59,6 @@ execute:
 
 metadata:
   author:
-    name: "您的姓名"
+    name: "Laurence Li"
     affiliation: "中山大学"
-    email: "your.email@student.sysu.edu.cn"
+    email: "liyukun@student.sysu.edu.cn"
